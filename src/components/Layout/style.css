@@ -1,0 +1,15 @@
+.companyName h6{
+    font-size: 40px;
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+.address{
+    display: flex;
+}
+
+.social img{
+    height: 32px;
+    margin: 10px 27px;
+}

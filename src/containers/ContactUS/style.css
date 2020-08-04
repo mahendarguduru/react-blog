@@ -1,0 +1,27 @@
+.phone img{
+    max-height: 32px;
+    padding: 10px;
+    
+}
+.phone{
+    display: flex;
+
+}
+.whatsapp{
+    display: flex;
+}
+.whatsapp img{
+    max-height: 32px;
+    padding: 10px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
+.mail{
+    display: flex;
+}
+.mail img{
+    max-height: 32px;
+    padding: 10px;
+}

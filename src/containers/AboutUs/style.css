@@ -1,0 +1,14 @@
+.aboutUs{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+   
+}
+.photo img{
+    height: 300px;
+    margin: 10px;
+}
+.discription{
+    text-align: center;
+    padding: 120px 10px;
+}

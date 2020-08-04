@@ -1,0 +1,47 @@
+.gallaryPost{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.mostPopular img{
+    height: 400px;
+    width: 100%; 
+    object-fit: fill; 
+   }
+.lessPopular img{
+    width: 100%;
+}
+.sideWrapper div{
+    width: 100%;
+    
+}
+.sideWrapper div img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: fill;
+}
+.homeContainer{
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+}
+.postImageWrapper{
+    height: 600px;
+    overflow: hidden;
+
+}
+.postImageWrapper img{
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+.postHeader h4{
+    font-size: 30px;
+    margin: 0;
+}
+.postHeader button{
+    margin-bottom: 10px;
+}
